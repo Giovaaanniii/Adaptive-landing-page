@@ -1106,6 +1106,9 @@
     height: 45px;
     border: 0;
   }
+  footer {
+    padding-bottom: 100px;
+  }
   footer .footer_div .footer_div_border {
     margin-left: 150px;
     margin-right: 150px;
